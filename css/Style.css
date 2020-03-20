@@ -1,0 +1,67 @@
+body {
+
+    background-color:#1d377a;
+
+}
+
+h1 {
+
+    padding-left: 40px;
+    font-family: "PT Sans",Arial,Tahoma;
+}
+
+h3 {
+
+    margin-left: 40px;
+    font-family: "PT Sans",Arial,Tahoma;
+}
+
+p {
+
+    margin-left: 40px;
+    font-weight: normal;
+    color: #757575; 
+
+}
+
+.word {
+
+    color:black;
+
+}
+
+main {
+
+    margin: auto;
+    width:100%;
+    max-width:900px;
+    background-color: #e6e9f0;
+    padding-bottom: 20px;
+    
+}
+
+.flexbox {
+
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #e6e9f0;
+    height: 50%;
+    margin: auto;
+    border:1px solid black;
+
+}
+
+
+.left {
+
+    display: flex;
+    align-items: center;
+
+}
+
+.right {
+
+    background-color: #e6e9f0;
+
+    }
